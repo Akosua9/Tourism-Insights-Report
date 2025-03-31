@@ -30,6 +30,10 @@ Highest visits in **South & West regions**, aligning with revenue trends.
 
 ---
 
+##Visualization:
+
+![Tourism Dashboard](https://github.com/Akosua9/Tourism-Insights-Report/commit/b86bef4d3c10644c631a5178339963846694e7e2)
+
 ##  Recommendations for Growth  
 
 ###  Improve Underperforming Regions  
